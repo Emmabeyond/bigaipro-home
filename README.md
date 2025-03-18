@@ -1,7 +1,7 @@
 # BigAiPro API 官方网站
 
 <div align="center">
-  <img src="img/logo.png" alt="BigAiPro Logo" width="300" />
+  <img src="https://blog.macsoft.fun/bigaipro/abuwl.jpeg" alt="BigAiPro Logo" width="300" />
   <p><strong>全球顶尖AI智能引擎·尽在掌握</strong></p>
 </div>
 
@@ -26,7 +26,7 @@ BigAiPro API 是一个新一代 AI 接口聚合平台，为用户提供便捷、
 
 ## 快速开始
 
-1. 注册并登录 BigAiPro 账户
+1. 注册并登录 BigAiPro API 账户
 2. 获取您的 API Key
 3. 通过我们的标准 API 接口调用 AI 服务
 
@@ -58,7 +58,7 @@ curl -X POST "https://api.bigaipro.com/v1/chat/completions" \
 ## 联系我们
 
 - **官方网站**: [https://bigaipro.com](https://bigaipro.com)
-- **邮箱**: support@bigaipro.com
+- **邮箱**: service@bigaipro.com
 - **客服**: 7×24小时在线技术支持
 
 ## 技术栈
